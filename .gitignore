@@ -1,0 +1,27 @@
+# pycache
+*.DS_Store
+*__pycache__
+**/__pycache__/*
+__pycache__/
+**/__pycache__/**
+
+# .zip or .gz
+*.zip
+*.gz
+
+# C extensions
+*.pyd
+*.so
+*.o
+
+# cache
+cache/**
+
+# datasets
+dataset/**
+data/**
+
+# tmp
+tmp/**
+tmp.py
+repos/**
