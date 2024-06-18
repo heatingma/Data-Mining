@@ -1,1 +1,1 @@
-from .fetch import Fetcher
+from .fetcher import Fetcher
