@@ -25,3 +25,6 @@ data/**
 tmp/**
 tmp.py
 repos/**
+
+# Data
+bert-base-chinese/*
