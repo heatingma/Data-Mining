@@ -28,3 +28,6 @@ repos/**
 
 # Data
 bert-base-chinese/*
+
+# Output
+*.out
